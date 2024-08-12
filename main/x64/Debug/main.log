@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Basics\OOP\OOP Projects\6- Bank Management System\main\main.cpp(103,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics\OOP\OOP Projects\6- Bank Management System\main\main.cpp(105,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Basics\OOP\OOP Projects\6- Bank Management System\main\main.cpp(127,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics\OOP\OOP Projects\6- Bank Management System\main\main.cpp(130,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics\OOP\OOP Projects\6- Bank Management System\main\main.cpp(398,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics\OOP\OOP Projects\6- Bank Management System\main\main.cpp(905,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.vcxproj -> D:\Basics\OOP\OOP Projects\6- Bank Management System\x64\Debug\main.exe
